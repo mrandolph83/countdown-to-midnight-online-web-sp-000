@@ -7,6 +7,5 @@ while x > 0
   x -= 1
 end
   sleep 1
+  return "HAPPY NEW YEAR!"
 end
-
-puts "HAPPY NEW YEAR!"
