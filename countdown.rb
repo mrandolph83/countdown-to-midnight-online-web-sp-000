@@ -9,4 +9,4 @@ while x > 0
 end
 end
 
-puts "HAPY NEW YEAR!"
+puts "HAPPY NEW YEAR!"
